@@ -28,7 +28,7 @@
 
 	- 종류를 `Linux`로, 버전을 `Ubuntu (64-bit)`로 설정해주었다.
     
-	<kbd><img align="center" src="img/1.png"></kbd>
+	<kbd><p align="center"><img src="img/1.png"></p></kbd>
 
 	- 이후의 과정은 기본 설정대로 하였기 때문에 이미지만 넣어놓았다.
 
