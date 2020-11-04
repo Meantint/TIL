@@ -32,22 +32,22 @@
 
 	- 이후의 과정은 기본 설정대로 하였기 때문에 이미지만 넣어놓았다.
 
-	<kbd><img src="img/2.png"></kbd>
+	<p align="center"><kbd><img src="img/2.png"></kbd></p>
 
-	<kbd><img src="img/3.png"></kbd>
+	<p align="center"><kbd><img src="img/3.png"></kbd></p>
 
-	<kbd><img src="img/4.png"></kbd>
+	<p align="center"><kbd><img src="img/4.png"></kbd></p>
 
-	<kbd><img src="img/5.png"></kbd>
+	<p align="center"><kbd><img src="img/5.png"></kbd></p>
 
-	<kbd><img src="img/6.png"></kbd>
+	<p align="center"><kbd><img src="img/6.png"></kbd></p>
 
 	- 파일 위치 및 크기까지 설정 후 만들기를 클릭하면 아래의 이미지와 같이 내가 설정한대로 `VMServer`가 만들어 진것을 볼 수 있다.
 
-	<kbd><img src="img/7.png"></kbd>
+	<p align="center"><kbd><img src="img/7.png"></kbd></p>
 
 	- 위의 이미지에서 `VMServer`를 클릭한 후 `설정 -> 저장소`를 누르면 아래의 이미지가 나온다.
 
 	- 아래의 이미지 오른쪽에 CD 모양을 누르면 아까 `2번`에서 받은 iso 파일이 보이는데 그것을 클릭 후 확인을 누르면 된다.
 
-	<kbd><img src="img/8.png"></kbd>
+	<p align="center"><kbd><img src="img/8.png"></kbd></p>
