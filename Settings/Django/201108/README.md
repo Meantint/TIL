@@ -18,7 +18,7 @@
 
 <p align="center"><kbd><img src="img/0_gitignore.png"></kbd></p>
 
-- 이후 기존의 `config/settings.py`를 다음과 같이 바꾼다.
+- 이후 기존의 `config/settings.py`의 윗부분을 다음과 같이 바꾼다.
 
 ```python
 from pathlib import Path
