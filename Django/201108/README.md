@@ -4,7 +4,7 @@
 
 <p align="center"><kbd><img src="img/0_startproject.png"></kbd></p>
 
-- `./manage.py runserver`로 입력한다.
+- `./manage.py runserver` 명령어를 입력한다.
 
 <p align="center"><kbd><img src="img/1_runserver.png"></kbd></p>
 
@@ -12,7 +12,7 @@
 
 <p align="center"><kbd><img src="img/2_success.png"></kbd></p>
 
-- `./manage.py migrate`를 입력한다(초기에는 `unapplied migration`들을 `apply` 하기위함)
+- `./manage.py migrate`를 입력한다(초기에는 `unapplied migration`들을 `apply` 하기위함).
 
 <p align="center"><kbd><img src="img/3_migrate.png"></kbd></p>
 
@@ -78,6 +78,9 @@ admin.site.register(Bookmark)
 - `Bookmark Object`가 추가된 것을 알 수 있다.
 
 <p align="center"><kbd><img src="img/13_create_bookmark_image.png"></kbd></p>
+
+### 사용한 실습
+- [https://github.com/Meantint/Django_Study/tree/master/Bookmark](https://github.com/Meantint/Django_Study/tree/master/Bookmark)
 
 ### 사용한 파일 링크
 
