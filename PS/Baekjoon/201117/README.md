@@ -14,6 +14,12 @@
 
 - [BOJ_20113 - 긴급 회의](https://www.acmicpc.net/problem/20113)
 
+- [BOJ_2675 - 문자열 반복](https://www.acmicpc.net/problem/2675)
+
+- [BOJ_2739 - 구구단](https://www.acmicpc.net/problem/2739)
+
+- [BOJ_2920 - 음계](https://www.acmicpc.net/problem/2920)
+
 ## 문제 설명
 
 - 풀이 - [BOJ_1076 - 저항](https://github.com/Meantint/Baekjoon/tree/master/Bronze%20II/BOJ_1076)
@@ -27,3 +33,9 @@
 - 풀이 - [BOJ_2997 - 네 번째 수](https://github.com/Meantint/Baekjoon/tree/master/Bronze%20III/BOJ_2997)
 
 - 풀이 - [BOJ_20113 - 긴급 회의](https://github.com/Meantint/Baekjoon/tree/master/Bronze%20I/BOJ_20113)
+
+- 풀이 - [BOJ_2675 - 문자열 반복](https://github.com/Meantint/Baekjoon/tree/master/Bronze%20II/BOJ_2675)
+
+- 풀이 - [BOJ_2739 - 구구단](https://github.com/Meantint/Baekjoon/tree/master/Bronze%20III/BOJ_2739)
+
+- 풀이 - [BOJ_2920 - 음계](https://github.com/Meantint/Baekjoon/tree/master/Bronze%20II/BOJ_2920)
