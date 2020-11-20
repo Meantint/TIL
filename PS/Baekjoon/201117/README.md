@@ -26,7 +26,7 @@
 
 - 풀이 - [BOJ_2562 - 최댓값](https://github.com/Meantint/Baekjoon/tree/master/Bronze%20II/BOJ_2562)
 
-- 풀이 - [BOJ_1002 - 터렛](https://github.com/Meantint/Baekjoon/tree/master/Sliver%20IV/BOJ_1002)
+- 풀이 - [BOJ_1002 - 터렛](https://github.com/Meantint/Baekjoon/tree/master/Silver%20IV/BOJ_1002)
 
 - 풀이 - [BOJ_1644 - 소수의 연속합](https://github.com/Meantint/Baekjoon/tree/master/Gold%20III/BOJ_1644)
 
