@@ -20,8 +20,40 @@
 
 ## 목표
 
-1. `~2020.11.30`까지 빠짐없이 하기
+1. `~2021.02.28`까지 빠짐없이 하기
 
-2. `~2020.12.31`까지 빠짐없이 하기
+## 진행 상황(21.01.01 ~)
 
-3. `~2021.02.28`까지 빠짐없이 하기
+- [21.01.01](https://github.com/Meantint/TIL/tree/master/PS/Baekjoon/210101)
+
+- [21.01.02](https://github.com/Meantint/TIL/tree/master/PS/Baekjoon/210102)
+
+- [21.01.03](https://github.com/Meantint/TIL/tree/master/PS/Baekjoon/210103)
+
+- [21.01.04](https://github.com/Meantint/TIL/tree/master/Regex/210104)
+
+- [21.01.05](https://github.com/Meantint/TIL/tree/master/Regex/210105)
+
+- [21.01.06](https://github.com/Meantint/TIL/tree/master/Regex/210106)
+
+- [21.01.07](https://github.com/Meantint/TIL/tree/master/Regex/210107)
+
+- [21.01.08](https://github.com/Meantint/TIL/tree/master/Regex/210108)
+
+- [21.01.09](https://github.com/Meantint/TIL/tree/master/PS/Baekjoon/210109)
+
+- [21.01.10](https://github.com/Meantint/TIL/tree/master/PS/Baekjoon/210110)
+
+- [21.01.11](https://github.com/Meantint/TIL/tree/master/PS/SWEA/210111)
+
+- [21.01.12](https://github.com/Meantint/TIL/tree/master/PS/SWEA/210112)
+
+- [21.01.13](https://github.com/Meantint/TIL/tree/master/PS/SWEA/210113)
+
+- [21.01.14](https://github.com/Meantint/TIL/tree/master/PS/SWEA/210114)
+
+- [21.01.15](https://github.com/Meantint/TIL/tree/master/PS/SWEA/210115)
+
+- [21.01.16](https://github.com/Meantint/TIL/tree/master/PS/SWEA/210116)
+
+- [21.01.17](https://github.com/Meantint/TIL/tree/master/Regex/210117)
