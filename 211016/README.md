@@ -5,7 +5,7 @@
 ### Python
 
 - [BOJ_1920](https://github.com/Meantint/Baekjoon/blob/master/Silver%20IV/BOJ_1920/BOJ_1920.py)
-- [BOJ_2108](https://github.com/Meantint/Baekjoon/blob/4edc81959c2733b3684604fda87a6db44acea80d/Silver%20IV/BOJ_2108/BOJ_2108.py)
+- [BOJ_2108](https://github.com/Meantint/Baekjoon/blob/master/Silver%20IV/BOJ_2108/BOJ_2108.py)
 - [BOJ_2164](https://github.com/Meantint/Baekjoon/blob/master/Silver%20IV/BOJ_2164/BOJ_2164.py)
 - [BOJ_4949](https://github.com/Meantint/Baekjoon/tree/master/Silver%20IV/BOJ_4949/BOJ_4949.py)
 - [BOJ_11651](https://github.com/Meantint/Baekjoon/blob/master/Silver%20V/BOJ_11651/BOJ_11651.py)
